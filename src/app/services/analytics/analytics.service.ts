@@ -10,6 +10,7 @@ export class AnalyticsService {
     private $gaService: GoogleAnalyticsService
   ) { }
 
+  //TODO REMOVE
   sendAnalyticEvent(action: string, category: string, label){
     this.$gaService.event(action, category, label)
   }

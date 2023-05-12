@@ -9,7 +9,7 @@ import { LanguageService } from "src/app/services/language/language.service"
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'muffeez-portfolio';
+  title = 'harpreet-portfolio';
 
   constructor(
     private titleService: Title,
@@ -21,10 +21,10 @@ export class AppComponent implements OnInit {
 
     this.languageService.initLanguage()
 
-    this.titleService.setTitle("Muffeez Khalid | MEAN Stack Developer | MERN Stack Developer | Software Engineer");
+    this.titleService.setTitle("Nehar Harpreet | UX/UI Developer | Software Engineer");
     this.metaService.addTags([
-      { name: 'keywords', content: 'Frontend, MEAN Stack Developer , MERN Stack Development , Software Engineer, software, developer' },
-      { name: 'description', content: 'As a software engineer with expertise in both MEAN and MERN stacks, I have a comprehensive understanding of full-stack web development. My strong foundation in JavaScript allows me to effectively work with front-end technologies such as Angular and React, as well as back-end technologies such as Node.js and Express.' },
+      { name: 'keywords', content: 'UX/UI Developer , Software Engineer' },
+      { name: 'description', content: 'Hi, my name is Harpreet and I\'m a passionate Designer and Software Engineer. After completing a higher technical school in Computer Science, I\'m currently finishing my Bachelor\'s degree in the same field. In my free time, I love editing pictures and creating my own designs. My diverse skill set allows me to bring a unique perspective to every project I work on. If you have any questions or want to collaborate, don\'t hesitate to reach out at harpreetneharyt@gmail.com.' },
     ]);
     
     AOS.init();
