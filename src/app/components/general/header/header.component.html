@@ -2,7 +2,7 @@
     <div class="container">
         <a class="navbar-brand text-light" [routerLink]="'inicio'">
             <!-- TODO fix-->
-            <img src='assets/images/me/mario.svg' width='45'/>
+            <img src='assets/images/me/icon-512.png' width='45'/>
         </a>
         <ul ngbNav #nav="ngbNav" class="menu-ul">
             <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_about", "menu", "click")'>
