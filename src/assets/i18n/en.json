@@ -98,6 +98,21 @@
   "FeatureProjects.Label": "Project",
   "FeatureProjects.Projects": [
     {
+      "Title": "Picture Portfolio",
+      "Description": "This is my second portfolio which only include picture made by me. <a href=\"https://harpreetnehar.myportfolio.com/work\" target=\"_blank\">Link to the Portfolio</a>",
+      "imgs": [
+        "assets/images/port/image1.png",
+        "assets/images/port/image2.png"
+      ],
+      "Technologies": [
+        "HTML & CSS",
+        "JavaScript",
+        "Adobe",
+        "Adobe Lightroom",
+        "Adobe Photshop"
+      ]
+    },
+    {
       "Title": "Modernization of an Frontend",
       "Description": "This project was my diploma project at HTL Spengergasse. As part of a team of four, we collaborated with Vienna Insurance Group (VIG) to modernize their outdated frontend application, which was written in Thymeleaf, to a modern web application. Using Angular, we rebuilt their frontend, and my main task was to ensure the accuracy of data saved to the database through a Docker container, as well as contributing to the development of the frontend.",
       "imgs": [
