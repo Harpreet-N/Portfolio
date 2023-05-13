@@ -1,14 +1,78 @@
 /* You can add global styles to this file, and also import other style files */
 
-$Navy         : #0a192f;
-$LightNavy    : #112240;
-$LightestNavy : #303C55;
+$Navy         : #242582;
+$LightNavy    : #2F2FA2;
+$LightestNavy : #553D67;
 $Slate        : #8892b0;
 $LightSlate   : #a8b2d1;
 $LightestSlate: #ccd6f6;
 $White        : #e6f1ff;
-$Green        : #64ffda;
+$Green        : #F64C72;
+$GreenOpacity : #99738E;
+
+
+$MainFont: DMSan-Medium,San Frsancisco,SF Pro Text,-apple-system,system-ui,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif;
+$CodeFont: JetBrainsMono-Bold, JetBrainsMono-Bold, Fira Mono, Roboto Mono, Lucida Console, Monaco, Monospace;
+
+
+/*
+
+$Navy         : #242582;
+$LightNavy    : #2F2FA2;
+$LightestNavy : #553D67;
+$Slate        : #8892b0;
+$LightSlate   : #a8b2d1;
+$LightestSlate: #ccd6f6;
+$White        : #e6f1ff;
+$Green        : #F64C72;
+$GreenOpacity : #99738E;
+
+ */
+
+/*
+
+$Navy         : #2F4454;
+$LightNavy    : #2E151B;
+$LightestNavy : #7395AE;
+$Slate        : #8892b0;
+$LightSlate   : #a8b2d1;
+$LightestSlate: #ccd6f6;
+$White        : #e6f1ff;
+$Green        : #DA7B93;
+$GreenOpacity : #D1E8E2;
+ */
+
+
+
+/*
+Light design:
+$Navy         : #EAE7DC;
+$LightNavy    : #D8C3A5;
+$LightestNavy : #8E8D8A;
+$Slate        : #8E8D8A;
+$LightSlate   : #8E8D8A;
+$LightestSlate: #8E8D8A;
+$White        : #e6f1ff;
+$Green        : #E98074;
+$GreenOpacity : #E85A4F;
+
+
+
+ */
+
+
+/**
+DARK MODE
+
+$Navy         : #25274D;
+$LightNavy    : #29648A;
+$LightestNavy : #AAABB8;
+$Slate        : #5AB9EA;
+$LightSlate   : #a8b2d1;
+$LightestSlate: #ccd6f6;
+$White        : #C1C8E4;
+$Green        : #8860D0;
 $GreenOpacity : rgba(100,255,218,0.07);
 
-$MainFont: Calibre,San Francisco,SF Pro Text,-apple-system,system-ui,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif;
-$CodeFont: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console, Monaco, Monospace;
+
+ */

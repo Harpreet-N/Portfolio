@@ -23,7 +23,11 @@
       "Title": "Matura HTBLVA, Spengergasse",
       "Date": "2014 - 2019",
       "Description": [
-        "Informatik"
+        "Computer science department",
+        "Learning Programming language and concepts",
+        "Working with databases",
+        "Learning about accounting and business administration",
+        "Project management"
       ]
     },
     {
@@ -31,7 +35,13 @@
       "Title": "Bachlor FH Technikum Wien",
       "Date": "2021 - 2023",
       "Description": [
-        "Informatik"
+        "Computer science department",
+        "Functional Programming",
+        "Quantencomputing",
+        "Network and security",
+        "Learning about accounting and business administration",
+        "Project management",
+        "Bachelor thesis about Voice Banking"
       ]
     }
   ],
@@ -42,9 +52,16 @@
       "Title": "Raiffeisen Software",
       "Date": "Mai 2023 - present",
       "Description": [
-        "Developed and maintained web applications using Angular.",
-        "Development of websites and user interfaces",
-        "UX/UI and app activity Development"
+        "Creating new component for the current framework",
+        "Working on releases of projects",
+        "Developing websites and user interfaces\n",
+        "Designing and developing UX/UI for apps\n",
+        "Creating and developing an Android app\n",
+        "Creating Angular libraries for use by other teams\n",
+        "Improving the current framework",
+        "Collaborating with cross-functional teams, such as product managers, designers, and other developers to deliver high-quality software solutions",
+        "Using version control systems, such as Git, to manage source code and collaborate with other developers\n",
+        "Designing and implementing responsive designs that work seamlessly across different devices and screen sizes\n"
       ]
     },
     {
@@ -52,9 +69,14 @@
       "Title": "Raiffeisen Software",
       "Date": "08/2021-04/2023",
       "Description": [
-        "Development of websites and user interfaces",
-        "UX/UI and app activity Development",
-        "Development of an android app."
+        "Developing websites and user interfaces\n",
+        "Designing and developing UX/UI for apps\n",
+        "Creating and developing an Android app\n",
+        "Creating Angular libraries for use by other teams\n",
+        "Improving the current framework",
+        "Collaborating with cross-functional teams, such as product managers, designers, and other developers to deliver high-quality software solutions",
+        "Using version control systems, such as Git, to manage source code and collaborate with other developers\n",
+        "Designing and implementing responsive designs that work seamlessly across different devices and screen sizes\n"
       ]
     } ,
     {
@@ -63,127 +85,101 @@
       "Date": " 03/2020 - 07/2021",
       "Description": [
         "Programmer in Regulatory Technology\n",
-        "Design and implementation of user interfaces"
+        "Design and implementation of user interfaces",
+        "Collaborating in the planning and design of software projects",
+        "Conducting error analysis and troubleshooting for custom-built or existing solutions, as well as continuously optimizing internal systems and IT solutions",
+        "Designing and implementing user interfaces for end-users",
+        "Independently managing and resolving tickets related to ongoing operations",
+        "Implementing (Java) and conducting developer tests in the area of OeNB validation"
       ]
     }
   ],
   "FeatureProjects.Title": "Projects that I was a part of",
-  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Label": "Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "2x School",
-      "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+      "Title": "Modernization of an Frontend",
+      "Description": "This project was my diploma project at HTL Spengergasse. As part of a team of four, we collaborated with Vienna Insurance Group (VIG) to modernize their outdated frontend application, which was written in Thymeleaf, to a modern web application. Using Angular, we rebuilt their frontend, and my main task was to ensure the accuracy of data saved to the database through a Docker container, as well as contributing to the development of the frontend.",
       "imgs": [
-        "assets/images/school/image1.png",
-        "assets/images/school/image2.png"
+        "assets/images/twin/Unbenannt.PNG",
+        "assets/images/twin/tf.png"
       ],
       "Technologies": [
         "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
+        "HTML & (S)CSS",
+        "JavaScript, TypeScript",
+        "Java",
+        "Docker"
       ]
     },
     {
-      "Title": "Best Buy Mall",
-      "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+      "Title": "Voice Banking App Action",
+      "Description": "For my bachelor thesis project, I implemented a proof of concept (PoC) at one of Austria's largest banks, Raiffeisenbank. The project involved developing an <span class='underline'>Android app action</span> and aimed to integrate voice assistants for customers. The PoC was designed to showcase the potential benefits of using voice assistants in banking, such as improving accessibility and convenience for customers. stripe integration for secure payments. I worked alone on this project",
       "imgs": [
-        "assets/images/bbm/image1.png",
-        "assets/images/bbm/image2.png"
+        "assets/images/voice/image1.png",
+        "assets/images/voice/image3.png"
       ],
       "Technologies": [
+        "Kotlin",
+        "Android",
+        "Java"
+      ]
+    },
+    {
+      "Title": " Storybook",
+      "Description": "Storybook is a frontend workshop for creating isolated UI components and pages. Many teams use it for development, testing, and documentation of user interfaces. My task where to represent all component that the framework of Raiffeisen. I worked alone on this project",
+      "imgs": [
+        "assets/images/story/image1.png",
+        "assets/images/story/image2.png"
+      ],
+      "Technologies": [
+        "Storybook",
         "Angular",
-        "SASS",
-        "Material",
-        "RxJS",
-        "ExpressJS"
-      ]
-    },
-    {
-      "Title": " Mazhr",
-      "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
-      "imgs": [
-        "assets/images/mazhr/image1.png"
-      ],
-      "Technologies": [
-        "React",
-        "SASS",
-        "Material",
-        "Babel",
-        "NodeJS"
-      ]
-    },
-    {
-      "Title": "Needle",
-      "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-      "imgs": [
-        "assets/images/mazhr/needle.png"
-      ],
-      "demoLink": "https://profile.needlemusic.co/bub",
-      "Technologies": [
-        "React",
-        "ChartJS",
-        "SASS",
-        "NodeJS",
-        "Python"
+        "TypeScript",
+        "Material"
       ]
     }
   ],
-  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Title": "Projects done during my bachelor",
   "OtherProjects.Projects": [
     {
-      "Title": "Covid Tracker",
-      "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-      "ghLink": "https://github.com/mufeez1/carona19-tracker",
-      "demoLink": "http://carona19-by-muffeez.surge.sh/",
+      "Title": "Warehouse Application",
+      "Description": "Build an end-2-end scenario – „parcel track‘n‘trace“, Use Microservices, REST, OpenAPI\n, Build reusable components\n ",
+      "ghLink": "https://github.com/Harpreet-N/at.fhtw.swen3",
+      "demoLink": "",
       "Technologies": [
-        "Angular",
-        "RxJs",
-        "API",
-        "Bootstrap"
+        "Java",
+        "Spring Boot",
+        "OpenAPI"
       ]
     },
     {
-      "Title": "Lets Chat",
-      "Description": "A real-time chat application. Another fun side project :)",
-      "ghLink": "https://github.com/mufeez1/lets-chat",
+      "Title": "TourPlaner",
+      "Description": "A JavaFx Application where a user can plan his/her tour",
+      "ghLink": "https://github.com/Harpreet-N/SWEN-2",
       "Technologies": [
-        "React",
-        "SASS",
-        "Socket.io",
-        "NodeJS",
-        "ExpressJS",
-        "Firebase"
+        "Java"
       ]
     },
     {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
+      "Title": "MonsterTradingCards",
+      "Description": "A Java Application where you can play with Monster Cards",
+      "ghLink": "https://github.com/Harpreet-N/MonsterTradingCards",
       "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
+        "Java"
       ]
     },
     {
-      "Title": "JWT Integration",
-      "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-      "ghLink": "https://github.com/mufeez1/node-jwt",
-      "demoLink": "https://github.com/mufeez1/node-jwt",
+      "Title": "TwMailer",
+      "Description": "A C++ application to show how a mail system works",
+      "ghLink": "https://github.com/Harpreet-N/twmailer",
       "Technologies": [
-        "React",
-        "JWT",
-        "ExpressJS",
-        "POSTGREESQL"
+        "C++"
       ]
     }
   ],
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities.",
   "Contact.Btn": "Say Hello"
 }
