@@ -7,7 +7,7 @@
   "Header.cvBtn": "Resume",
   "Header.cvName": "Nehar_Harpreet_Lebenslauf.pdf",
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "Hi, my name is  <span class='underline'>Nehar Harpreet</span> and I'm a passionate <span class='underline'>Designer and Software Engineer </span>. After completing a higher technical school in Computer Science, I'm currently finishing my Bachelor's degree in the same field. In my free time, I love editing pictures and creating my own designs. My diverse skill set allows me to bring a unique perspective to every project I work on.",
+  "Banner.Description": "Looking for a skilled and creative Designer and Software Engineer? Look no further! My name is <span class='underline'>Nehar Harpreet</span>, and I have a passion for combining technical expertise with artistic flair. With a strong background in Computer Science, I'm equipped with the knowledge and skills to bring your ideas to life. I'm always seeking new <span class='underline'>challenges and opportunities</span> to push my creative boundaries, and my diverse skill set allows me to approach every project with a fresh perspective. Let's work together to create something truly unique and impactful! In the meantime enjoy my portfolio",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
@@ -86,10 +86,11 @@
         "Programmer in Regulatory Technology\n",
         "Design and implementation of user interfaces",
         "Collaborating in the planning and design of software projects",
-        "Conducting error analysis and troubleshooting for custom-built or existing solutions, as well as continuously optimizing internal systems and IT solutions",
+        "Conducting error analysis and troubleshooting for custom-built" ,
+        "Optimizing internal systems and IT solutions",
         "Designing and implementing user interfaces for end-users",
         "Independently managing and resolving tickets related to ongoing operations",
-        "Implementing (Java) and conducting developer tests in the area of OeNB validation"
+        "Implementing and conducting developer tests in the area of OeNB validation"
       ]
     }
   ],

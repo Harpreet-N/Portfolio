@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 
 @Component({
   selector: 'app-education',
@@ -11,7 +10,6 @@ export class EducationComponent implements OnInit {
   active = 0
 
   constructor(
-    public analyticsService: AnalyticsService
   ) { }
 
   ngOnInit(): void {
