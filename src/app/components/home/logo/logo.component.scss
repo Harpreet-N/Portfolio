@@ -1,7 +1,8 @@
-@import "./../../../../variables.scss";
+@import "src/variables";
 .proyects {
     .proyect-container {
         height: 360px;
+        margin: 100px 0;
         .proyect-info-left {
             width: 50%;
             margin-right: -57px;
@@ -22,9 +23,12 @@
                 font-weight: normal;
                 color: $Green;
                 font-family: $CodeFont;
+                margin-top: 10px;
+                padding-top: 0;
             }
             .proyect-name {
                 font-size: 28px;
+                margin: 0 0 20px;
                 color: $LightestSlate;
             }
             .proyect-description-box {
@@ -50,6 +54,7 @@
                 -ms-flex-wrap: wrap;
                 flex-wrap: wrap;
                 padding: 0;
+                margin: 25px 0 10px;
                 list-style: none;
                 li {
                     margin-right: 0;
@@ -64,6 +69,7 @@
                 }
             }
             .proyect-links {
+                margin-top: 10px;
                 i {
                     font-size: 22px;
                 }
@@ -184,18 +190,12 @@
 }
 
 .img-container {
-    width: 600px;
-    max-height: 320px;
+    width: 700px;
+    height: 700px;
     overflow: auto;
     border-radius: 3px;
 }
 
-.logo-container {
-    width: 700px;
-    max-height: 700px;
-    overflow: auto;
-    border-radius: 3px;
-}
 
 /* width */
 

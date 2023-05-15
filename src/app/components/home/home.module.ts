@@ -13,6 +13,7 @@ import { NgbModule, NgbNav, NgbNavModule } from '@ng-bootstrap/ng-bootstrap';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import {EducationComponent} from './education/education.component';
+import {LogoComponent} from "./logo/logo.component";
 
 export function HttpLoaderFactory(http: HttpClient){
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -30,6 +31,7 @@ export function HttpLoaderFactory(http: HttpClient){
         MoreProyectsComponent,
         ContactComponent,
         EducationComponent,
+        LogoComponent,
     ],
   imports: [
     CommonModule,

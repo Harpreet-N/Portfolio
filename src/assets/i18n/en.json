@@ -11,25 +11,13 @@
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "Hi, my name is  <span class='underline'>Nehar Harpreet</span> and I'm a passionate <span class='underline'>Designer and Software Engineer </span>. After completing a higher technical school in Computer Science, I'm currently finishing my Bachelor's degree in the same field. In my free time, I love editing pictures and creating my own designs. My diverse skill set allows me to bring a unique perspective to every project I work on.",
+    "After completing a higher technical school in Computer Science, I'm currently finishing my Bachelor's degree in the same field. In my free time, I love editing pictures and creating my own designs. My diverse skill set allows me to bring a <span class='underline'>unique perspective to every project I work on. </span>",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include:"
   ],
   "Experience.Title": "Experience",
   "Education.Title": "Education",
   "Experience.Education": [
-    {
-      "Tab": "HTL",
-      "Title": "Matura HTBLVA, Spengergasse",
-      "Date": "2014 - 2019",
-      "Description": [
-        "Computer science department",
-        "Learning Programming language and concepts",
-        "Working with databases",
-        "Learning about accounting and business administration",
-        "Project management"
-      ]
-    },
     {
       "Tab": "Bachlor",
       "Title": "Bachlor FH Technikum Wien",
@@ -42,6 +30,18 @@
         "Learning about accounting and business administration",
         "Project management",
         "Bachelor thesis about Voice Banking"
+      ]
+    },
+    {
+      "Tab": "HTL",
+      "Title": "Matura HTBLVA, Spengergasse",
+      "Date": "2014 - 2019",
+      "Description": [
+        "Computer science department",
+        "Learning Programming language and concepts",
+        "Working with databases",
+        "Learning about accounting and business administration",
+        "Project management"
       ]
     }
   ],
@@ -155,6 +155,23 @@
       ]
     }
   ],
+  "LogoProjects": [
+    {
+      "Title": "Logo",
+      "Description": "Some Logos I created in my free time",
+      "imgs": [
+        "assets/images/logo/image1.png",
+        "assets/images/logo/image2.png",
+        "assets/images/logo/image3.png",
+        "assets/images/logo/image4.png",
+        "assets/images/logo/image5.png"
+      ],
+      "Technologies": [
+        "Adobe"
+      ]
+    }
+  ],
+
   "OtherProjects.Title": "Projects done during my bachelor",
   "OtherProjects.Projects": [
     {
