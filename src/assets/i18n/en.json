@@ -153,6 +153,30 @@
         "TypeScript",
         "Material"
       ]
+    },
+    {
+      "Title": "Design Figma prototype",
+      "Description": "A prototype of an dog website. <a href=\"https://www.figma.com/proto/tHq47qruwG1NGS53yWlyIl/Dog-Website?type=design&node-id=11-58&scaling=scale-down&page-id=0%3A1\" target=\\\"_blank\\\">Link to the Figma File</a>",
+      "imgs": [
+        "assets/images/figma_Dog/image1.png",
+        "assets/images/figma_Dog/image2.png"
+      ],
+      "Technologies": [
+        "Figma",
+        "Photoshop"
+      ]
+    },
+    {
+      "Title": "Design Figma prototype",
+      "Description": "A prototype of an modern website. <a href=\"https://www.figma.com/proto/o9f5Zn07laHBp8VS1n1yxi/Untitled?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1\" target=\\\"_blank\\\">Link to the Figma File</a>",
+      "imgs": [
+        "assets/images/cosmatic/image1.png",
+        "assets/images/cosmatic/image2.png"
+      ],
+      "Technologies": [
+        "Figma",
+        "Photoshop"
+      ]
     }
   ],
   "LogoProjects": [
