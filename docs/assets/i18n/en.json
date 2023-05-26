@@ -1,0 +1,241 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Education",
+  "Header.Item4": "Projects",
+  "Header.Item5": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Nehar_Harpreet_Lebenslauf.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "Looking for a skilled and creative Designer and Software Engineer? Look no further! My name is <span class='underline'>Nehar Harpreet</span>, and I have a passion for combining technical expertise with artistic flair. With a strong background in Computer Science, I'm equipped with the knowledge and skills to bring your ideas to life. I'm always seeking new <span class='underline'>challenges and opportunities</span> to push my creative boundaries, and my diverse skill set allows me to approach every project with a fresh perspective. Let's work together to create something truly unique and impactful! In the meantime enjoy my portfolio",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "After completing a higher technical school in Computer Science, I'm currently finishing my Bachelor's degree in the same field. In my free time, I love editing pictures and creating my own designs. My diverse skill set allows me to bring a <span class='underline'>unique perspective to every project I work on. </span>",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include:"
+  ],
+  "Experience.Title": "Experience",
+  "Education.Title": "Education",
+  "Experience.Education": [
+    {
+      "Tab": "Bachlor",
+      "Title": "Bachlor FH Technikum Wien",
+      "Date": "2021 - 2023",
+      "Description": [
+        "Computer science department",
+        "Functional Programming",
+        "Quantencomputing",
+        "Network and security",
+        "Learning about accounting and business administration",
+        "Project management",
+        "Bachelor thesis about Voice Banking"
+      ]
+    },
+    {
+      "Tab": "HTL",
+      "Title": "Matura HTBLVA, Spengergasse",
+      "Date": "2014 - 2019",
+      "Description": [
+        "Computer science department",
+        "Learning Programming language and concepts",
+        "Working with databases",
+        "Learning about accounting and business administration",
+        "Project management"
+      ]
+    }
+  ],
+
+  "Experience.Jobs": [
+    {
+      "Tab": "UX/UI Developer",
+      "Title": "Raiffeisen Software",
+      "Date": "Mai 2023 - present",
+      "Description": [
+        "Creating new component for the current framework",
+        "Working on releases of projects",
+        "Developing websites and user interfaces\n",
+        "Designing and developing UX/UI for apps\n",
+        "Creating and developing an Android app\n",
+        "Creating Angular libraries for use by other teams\n",
+        "Improving the current framework",
+        "Improving the current framework",
+        "Using version control systems to manage source code",
+        "Designing and implementing responsive designs"
+      ]
+    },
+    {
+      "Tab": "UX/UI Dual Student",
+      "Title": "Raiffeisen Software",
+      "Date": "08/2021-04/2023",
+      "Description": [
+        "Developing websites and user interfaces",
+        "Designing and developing UX/UI for apps",
+        "Creating and developing an Android app",
+        "Creating Angular libraries for use by other teams",
+        "Improving the current framework",
+        "Using version control systems to manage source code",
+        "Designing and implementing responsive designs"
+      ]
+    } ,
+    {
+      "Tab": "Junior Software Engineer\n",
+      "Title": "BearingPoint",
+      "Date": " 03/2020 - 07/2021",
+      "Description": [
+        "Programmer in Regulatory Technology\n",
+        "Design and implementation of user interfaces",
+        "Collaborating in the planning and design of software projects",
+        "Conducting error analysis and troubleshooting for custom-built" ,
+        "Optimizing internal systems and IT solutions",
+        "Designing and implementing user interfaces for end-users",
+        "Independently managing and resolving tickets related to ongoing operations",
+        "Implementing and conducting developer tests in the area of OeNB validation"
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Picture Portfolio",
+      "Description": "This is my second portfolio which only include picture made by me. <a href=\"https://harpreetnehar.myportfolio.com/work\" target=\"_blank\">Link to the Portfolio</a>",
+      "imgs": [
+        "assets/images/port/image1.png",
+        "assets/images/port/image2.png"
+      ],
+      "Technologies": [
+        "HTML & CSS",
+        "JavaScript",
+        "Adobe",
+        "Adobe Lightroom",
+        "Adobe Photshop"
+      ]
+    },
+    {
+      "Title": "Modernization of an Frontend",
+      "Description": "This project was my diploma project at HTL Spengergasse. As part of a team of four, we collaborated with Vienna Insurance Group (VIG) to modernize their outdated frontend application, which was written in Thymeleaf, to a modern web application. Using Angular, we rebuilt their frontend, and my main task was to ensure the accuracy of data saved to the database through a Docker container, as well as contributing to the development of the frontend.",
+      "imgs": [
+        "assets/images/twin/Unbenannt.PNG",
+        "assets/images/twin/tf.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "HTML & (S)CSS",
+        "JavaScript, TypeScript",
+        "Java",
+        "Docker"
+      ]
+    },
+    {
+      "Title": "Voice Banking App Action",
+      "Description": "For my bachelor thesis project, I implemented a proof of concept (PoC) at one of Austria's largest banks, Raiffeisenbank. The project involved developing an <span class='underline'>Android app action</span> and aimed to integrate voice assistants for customers. The PoC was designed to showcase the potential benefits of using voice assistants in banking, such as improving accessibility and convenience for customers. stripe integration for secure payments. I worked alone on this project",
+      "imgs": [
+        "assets/images/voice/image1.png",
+        "assets/images/voice/image3.png"
+      ],
+      "Technologies": [
+        "Kotlin",
+        "Android",
+        "Java"
+      ]
+    },
+    {
+      "Title": " Storybook",
+      "Description": "Storybook is a frontend workshop for creating isolated UI components and pages. Many teams use it for development, testing, and documentation of user interfaces. My task where to represent all component that the framework of Raiffeisen. I worked alone on this project",
+      "imgs": [
+        "assets/images/story/image1.png",
+        "assets/images/story/image2.png"
+      ],
+      "Technologies": [
+        "Storybook",
+        "Angular",
+        "TypeScript",
+        "Material"
+      ]
+    },
+    {
+      "Title": "Design Figma prototype",
+      "Description": "A prototype of an dog website. <a href=\"https://www.figma.com/proto/tHq47qruwG1NGS53yWlyIl/Dog-Website?type=design&node-id=11-58&scaling=scale-down&page-id=0%3A1\" target=\\\"_blank\\\">Link to the Figma File</a>",
+      "imgs": [
+        "assets/images/figma_Dog/image1.png",
+        "assets/images/figma_Dog/image2.png"
+      ],
+      "Technologies": [
+        "Figma",
+        "Photoshop"
+      ]
+    },
+    {
+      "Title": "Design Figma prototype",
+      "Description": "A prototype of an modern website. <a href=\"https://www.figma.com/proto/o9f5Zn07laHBp8VS1n1yxi/Untitled?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1\" target=\\\"_blank\\\">Link to the Figma File</a>",
+      "imgs": [
+        "assets/images/cosmatic/image1.png",
+        "assets/images/cosmatic/image2.png"
+      ],
+      "Technologies": [
+        "Figma",
+        "Photoshop"
+      ]
+    }
+  ],
+  "LogoProjects": [
+    {
+      "Title": "Logo",
+      "Description": "Some Logos I created in my free time",
+      "imgs": [
+        "assets/images/logo/image1.png",
+        "assets/images/logo/image2.png",
+        "assets/images/logo/image3.png",
+        "assets/images/logo/image4.png",
+        "assets/images/logo/image5.png"
+      ],
+      "Technologies": [
+        "Adobe"
+      ]
+    }
+  ],
+
+  "OtherProjects.Title": "Projects done during my bachelor",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Warehouse Application",
+      "Description": "Build an end-2-end scenario – „parcel track‘n‘trace“, Use Microservices, REST, OpenAPI\n, Build reusable components\n ",
+      "ghLink": "https://github.com/Harpreet-N/at.fhtw.swen3",
+      "demoLink": "",
+      "Technologies": [
+        "Java",
+        "Spring Boot",
+        "OpenAPI"
+      ]
+    },
+    {
+      "Title": "TourPlaner",
+      "Description": "A JavaFx Application where a user can plan his/her tour",
+      "ghLink": "https://github.com/Harpreet-N/SWEN-2",
+      "Technologies": [
+        "Java"
+      ]
+    },
+    {
+      "Title": "MonsterTradingCards",
+      "Description": "A Java Application where you can play with Monster Cards",
+      "ghLink": "https://github.com/Harpreet-N/MonsterTradingCards",
+      "Technologies": [
+        "Java"
+      ]
+    },
+    {
+      "Title": "TwMailer",
+      "Description": "A C++ application to show how a mail system works",
+      "ghLink": "https://github.com/Harpreet-N/twmailer",
+      "Technologies": [
+        "C++"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities.",
+  "Contact.Btn": "Say Hello"
+}
